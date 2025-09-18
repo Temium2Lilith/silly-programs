@@ -1,2 +1,4 @@
-# silly-programs
-Silly programs me and my friend came up with and made because we thought it was funny
+# ⚠️ IMPORTANT DISCLAIMER ⚠️
+Some of the code provided here is malicious by nature and can cause harm to the end-user if run. 
+WE DO NOT TAKE ANY ACCOUNTIBILITY OR CREDIBILITY FOR ANY DAMAGE AND/OR LOSS OF DATA THAT OCCURS ON YOUR DEVICE DUE TO YOU RUNNING THE CODE ON YOUR MACHINE
+YOU ARE RUNNING THIS CODE AT YOUR OWN RISK
